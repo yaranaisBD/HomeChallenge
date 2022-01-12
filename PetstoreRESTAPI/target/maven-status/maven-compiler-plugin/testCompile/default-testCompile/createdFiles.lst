@@ -1,0 +1,6 @@
+Pet.class
+Store.class
+config\PetEndPoints.class
+config\PetConfig.class
+config\StoreConfig.class
+config\StoreEndPoints.class
